@@ -1,0 +1,13 @@
+{
+    "workbench.colorTheme": "Darcula",
+    "workbench.iconTheme": "material-icon-theme",
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+    "npm.enableScriptExplorer": true,
+    "workbench.editor.enablePreview": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+"editor.detectIndentation": false,
+"liveshare.featureSet": "insiders",
+"typescript.updateImportsOnFileMove.enabled": "always",
+"editor.mouseWheelZoom": true,
+"liveServer.settings.donotShowInfoMsg": true
+}
